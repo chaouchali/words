@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Words/app/src/main/res/drawable/layout_menu.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Words/app/src/main/res/layout/activity_main.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.12708333333333333" />
         <entry key="..\:/Users/MSI/AndroidStudioProjects/Words/app/src/main/res/menu/layout_menu.xml" value="0.25" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
